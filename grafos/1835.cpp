@@ -1,4 +1,5 @@
-
+// o algoritmo abaixo pode ser encontrado em https://pc.oberlan.com/ed2/#otimizacoes-do-union-find
+// acesse o link para mais informações
 #include <bits/stdc++.h>
 using namespace std;
 
